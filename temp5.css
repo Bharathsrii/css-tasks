@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding:0;
+  
+    background-image: url(https://cdn.pixabay.com/photo/2015/02/04/08/03/baby-623417_1280.jpg);
+    background-size: cover;
+}
+
+a{
+    color: rgb(32, 32, 32);
+    float: right;
+    position: relative;
+    right: 280px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+
+nav{
+    width: 1535px;
+    height: 40px;
+    background-color:rgb(175, 167, 167);
+    opacity:5;
+   
+   
+    font-size: 20px;
+}
+
+main{
+    position: relative;
+    top: 80px;
+    left: 60px;
+    color: white;
+}
+
+main #color{
+    background-color: red;
+    padding: 20px;
+    width: 140px;
+}
+.square{
+    border: 3px solid white;
+    background-color: white;
+    border-radius: 2px;
+    box-shadow: black 5px;
+    width: 100px;
+    height: 100px;
+    color: red;
+    font-size: 500%;
+    position: relative;
+    top: 20px;
+    left: 700px;
+    transform: rotate(30deg);
+}
+.zero{
+    transform: rotate(-30deg);
+    position: relative;
+    bottom: 80px;
+    left: 7px; ;
+}

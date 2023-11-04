@@ -1,0 +1,29 @@
+#p1 {
+    background-color: goldenrod;
+    width: 25%;
+}
+#p2 {
+    background-color: aqua;
+    width:25%;
+    padding-left:20px ;
+    padding-top:40px ;
+    padding-bottom: 20px;
+    padding-right:20px;
+}
+#p3 {
+    background-color: purple;
+    width:25%;
+    padding-top: 40px;
+}
+#p4 {
+    background-color: limegreen;
+    width:25%;
+    padding-left: 40px;
+    padding-bottom: 20px;    
+}
+#p5 {
+    background-color: greenyellow;
+    width:25%;
+    padding-right: 40px;
+    padding-bottom: 20px;
+}

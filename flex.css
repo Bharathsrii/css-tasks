@@ -1,0 +1,30 @@
+.one{
+    display: flex;
+    align-items:center;
+}
+.paraone,.paratwo,.parathree{
+    border: 2px solid skyblue;
+    margin: 2px;
+    width: 15%;
+    height: 200px;
+}
+.two{display: flex;
+    align-items:flex-start;
+
+}
+.parafour,.parafive,.parasix{
+    border: 2px solid red;
+    margin: 2px;
+    width: 15%;
+    height: 200px;
+}
+.three{display: flex;
+    align-items:flex-end;
+
+}
+.paraseven,.paraeight,.paranine{
+    border: 2px solid orange;
+    margin: 2px;
+    width: 15%;
+    height: 200px;
+}

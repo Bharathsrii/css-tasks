@@ -1,0 +1,18 @@
+.inline{
+    display: inline;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+}
+.block{
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+}
+.lb{
+    display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+}

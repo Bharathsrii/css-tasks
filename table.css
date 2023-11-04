@@ -1,0 +1,49 @@
+table,th,td{
+    border: 2px solid black;
+}
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+th{
+    height: 30px;
+}
+.head{
+    background-color: aqua;
+}
+tr:nth-child(5) .mark{
+    background-color: blueviolet;
+}
+tr:nth-child(7) .mark{
+    background-color: blueviolet;
+}
+tr:nth-child(9) .mark{
+    background-color: blueviolet;
+}
+tr:nth-child(even){
+    background-color: aquamarine;
+}
+tr:nth-child(odd){
+    background-color: bisque;
+}
+.angular{
+    display: inline-block;
+    font-size: 120%;
+    margin-right: 10px;
+}
+.angular:hover{
+    background-color: lightslategray;
+}
+a:link{ color: red;
+}
+
+div:first-child{
+    background-color: greenyellow;
+}
+a:first-child{
+    color: aqua;
+}
+a:focus{
+    background-color: yellow;
+}

@@ -1,0 +1,8 @@
+.ios{
+    background-color: pink
+}
+@media screen and (min-width:550px) {
+    .iop{
+    background-color: red;
+}
+}

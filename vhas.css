@@ -1,0 +1,24 @@
+.visible{
+    background-color: skyblue;
+    width: 75%;
+    height: 80px;
+    overflow: visible;
+}
+.hidden{
+    background-color: pink;
+    width: 55%;
+    height: 80px;
+    overflow-y: scroll;
+}
+.auto{
+    background-color: blue;
+    width: 55%;
+    height: 80px;
+    overflow-x: scroll;
+}
+.scroll{
+    background-color: burlywood;
+    width: 75%;
+    height: 150px;
+    overflow: scroll;
+}

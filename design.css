@@ -1,0 +1,54 @@
+.boss{
+ display: grid;
+ grid-template-columns: auto auto auto; 
+ grid-template-rows: 3;
+  background-color: black;
+  padding: 10px;
+}
+.one{
+    background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 15px;
+  text-align: center;
+  width: 300px;
+  height: 300px;
+  box-shadow: 10px 1px 5px yellow;
+  border-radius: 20px;
+}
+ .img1{
+    position: absolute;
+    top: 45px;
+    left: 260px;
+}
+.img2{
+    position: absolute;
+    top: 50px;
+    left: 1070px;
+}
+.img3{
+    position: absolute;
+    top: 390px;
+    left: 650px;
+}
+.y1{
+    background-color: yellow;
+    width: 200px;
+    height: 10px;
+    position: absolute;
+    left: 90px;
+}
+.b1{
+    background-color: blue;
+    width: 200px;
+    height: 10px;
+    position: absolute;
+    left: 900px;
+}
+.g1{
+    background-color: green;
+    width: 200px;
+    height: 10px;
+    position: absolute;
+    left: 500px;
+}

@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(to left,skyblue,blue,purple);
+    max-height: 1000px;
+}
+
+.content{
+    width: 400px;
+    height: 450px;
+    margin: 50px auto;
+    left: 450px;
+    top: 250px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 40px;
+}
+.text{
+text-align: left;
+border: none;
+border-bottom: 2px solid black;
+}
+.button{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    background-image: linear-gradient(to left,skyblue,blue,purple);
+}
+.forget{
+    text-align: right;
+}
+.icon1{
+        margin:20px;
+        width:2px;
+        height:3px; 
+}
+.icon2{
+    margin:20px;
+    width:2px;
+    height:3px; 
+}
+.icon3{
+    margin:20px;
+    width:2px;
+    height:3px; 
+}

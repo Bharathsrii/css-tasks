@@ -1,0 +1,6 @@
+div > p{
+    background: radial-gradient(red,rgb(232, 118, 232),blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}

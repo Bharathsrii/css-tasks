@@ -1,0 +1,19 @@
+div::first-line{
+    color: darkorange;
+}
+div::first-letter{
+    color: darkorchid;
+}
+p::before{
+    content:"@"
+}
+p::after{
+    content: " &";
+}
+
+p::selection{
+    background-color: skyblue;
+}
+li::marker{
+    color: red;
+}

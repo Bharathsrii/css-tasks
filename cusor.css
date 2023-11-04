@@ -1,0 +1,20 @@
+.im{
+    cursor: pointer;
+}
+.li{
+    cursor: grab;
+}
+.head{
+    cursor: progress;
+}
+.para{
+    cursor: move;
+}
+.graph{
+    background-color: black;
+    color: white;
+}
+.graph:hover{
+    cursor: cell;
+    background-color: brown;
+}

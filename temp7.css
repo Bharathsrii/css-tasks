@@ -1,0 +1,114 @@
+body{
+    background: url('https://cdn.pixabay.com/photo/2016/11/08/05/11/children-1807511_1280.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+.head1{
+    position: absolute;
+    left: 65px;
+    top: 10px;
+    color: aliceblue;
+}
+.class-container{
+    background-color: rgb(54, 54, 53);
+    width: 1370px;
+    
+}
+.head2{
+    position: absolute;
+    left: 500px;
+    top: 1px;
+    cursor: ne-resize;
+    color: aliceblue;
+}
+.head3{
+    position: absolute;
+    left: 700px;
+    top: 0px;
+    color: aliceblue;
+}
+.head4{
+    position: absolute;
+    left: 900px;
+    top: 0px;
+    color: aliceblue;
+}
+.head5{
+    position: absolute;
+    left: 1100px;
+    top: 0px;
+    background-color: rgb(223, 255, 41);
+    padding: 10px;
+    width: 90px;
+}
+a{
+    text-decoration: none;
+    position: relative;
+    left: 50px;
+    padding: 20px;
+    cursor: progress;
+    
+    background-color: rgb(0, 0, 0);
+    
+    }
+    a:hover{
+        background-color: brown;
+        color: aqua;
+    }
+    .head6{
+        position: absolute;
+        top: 80px;
+        left: 1100px;
+    }
+    .head7{
+        position: absolute;
+        top: 80px;
+        left: 1150px;
+    }
+    .head8{
+        position: absolute;
+        top: 80px;
+        left: 1200px;
+    }
+    .head9{
+        position: relative;
+    left: 100px;
+    top: 190px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    width: 150px;
+    border-left: 10px solid yellow;
+   }
+   .content{
+    display: flex;
+    top: 350px;
+    position: relative;
+    max-height: 400px;
+ }
+ 
+  .content1{
+    background-color: yellow;
+   padding: 70px;
+ 
+   
+  }
+  .content2{
+  
+    padding:70px;
+    
+    background-color: rgb(33, 239, 253);
+    
+  }
+  .content3{
+    
+    padding:70px;
+    
+    background-color: rgb(228, 78, 19);
+    
+  }
+  .content4{
+    
+    padding:70px;
+   
+    background-color: rgb(29, 30, 97);
+  }

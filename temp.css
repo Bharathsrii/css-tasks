@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2015/01/08/18/26/man-593333_1280.jpg);
+    width: 100%;
+    opacity: 0.9;
+}
+.ang{
+    float: right;
+    padding: 10px;
+    color: skyblue;
+}
+.heading{
+    margin: 100px;
+    position: absolute;
+    top: 100px;
+    display: inline;
+    color: white;
+}
+.content{
+    margin: 80px;
+    position: absolute;
+    top: 230px;
+    color: white;
+    left: 300px;
+}
+.btn{
+    margin: 80px;
+    position: absolute;
+    top: 330px;
+    border-radius: 60px;
+    border: 20px;
+    left: 400px;
+    background-image: linear-gradient(white);
+    
+}

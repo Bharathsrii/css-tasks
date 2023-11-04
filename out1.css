@@ -1,0 +1,64 @@
+.box1{
+    height: 100px;
+    width: 100%;
+    background-color: greenyellow;
+    outline: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.box2{
+    height: 100px;
+    width: 100%;
+    background-color: greenyellow;
+    outline:2px dotted black;
+    margin: 20px;
+    padding: 20px;
+}
+.box3{
+    height: 100px;
+    width: 100%;
+    background-color: greenyellow;
+    outline: 2px dashed black;
+    margin: 20px;
+    padding: 20px;
+}
+.box4{
+    height: 100px;
+    width: 100%;
+    background-color: greenyellow;
+    outline: 2px groove black;
+    margin: 20px;
+    padding: 20px;
+}
+.box5{
+    height: 100px;
+    width: 100%;
+    background-color: greenyellow;
+    outline: 2px ridge black;
+    margin: 20px;
+    padding: 20px;
+}
+.box6{
+    height: 100px;
+    width: 100%;
+    background-color: greenyellow;
+    outline: 2px inset black;
+    margin: 20px;
+    padding: 20px;
+}
+.box7{
+    height: 100px;
+    width: 100%;
+    background-color: greenyellow;
+    outline: 2px outset black;
+    margin: 20px;
+    padding: 20px;
+}
+.box8{
+    height: 100px;
+    width: 100%;
+    background-color: greenyellow;
+    outline: 2px hidden black;
+    margin: 20px;
+    padding: 20px;
+}

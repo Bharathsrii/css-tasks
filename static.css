@@ -1,0 +1,23 @@
+.main{
+    border: 2px solid black;
+    width: 50%;
+    height: 500px;
+    position: relative;
+}
+.red{
+background-color: red;
+width: 100px;
+height: 100px;
+}
+.blue{
+background-color: blue;
+width: 100px;
+height: 100px;
+left: 150px;
+position: absolute;
+}
+.green{
+background-color: green;
+width: 100px;
+height: 100px;
+}

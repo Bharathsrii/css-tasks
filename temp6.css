@@ -1,0 +1,105 @@
+.class-container > img{
+    height: 90px;
+    position: relative;
+    left: 100px;
+    display:flex;
+    justify-content: space-around;
+    
+    
+}
+body{
+    background: url('https://imgmedia.lbb.in/media/2019/09/5d863bbfcb53eb2caad4f36c_1569078207747.jpg');
+background-repeat: no-repeat;
+width: 95%;
+background-size: cover;
+border-bottom: 500px;
+
+}
+h4{
+    position: absolute;
+   left: 600px;
+}
+h5{
+    position: absolute;
+    left: 900px;
+}
+a{
+text-decoration: none;
+position: relative;
+left: 400px;
+padding: 10px;
+cursor: progress;
+
+}
+a:hover{
+    background-color: brown;
+    color: aqua;
+}
+.number{
+    position: absolute;
+    left: 1000px;
+}
+.divv{
+    display:flex;
+    margin:20px;
+    padding:30px;
+  z-index:3;
+  position:absolute;
+  top:700px;
+    text-align:center;
+}
+.box1{
+    width:300px;
+    height:300px;
+    background-color: rgb(238, 138, 44);
+    padding:30px;
+
+}
+.box2{
+    width:300px;
+    height:300px;
+    background-color: rgb(56, 221, 180);
+    padding:30px;
+
+}
+.box3{
+    width:300px;
+    height:300px;
+    background-color: rgb(255, 251, 0);
+    padding:30px;
+
+}
+.footer{
+    display:flex;
+    margin:40px;
+  
+    padding:30px;
+  z-index:4;
+  position:absolute;
+  top:1090px;
+  left:1px;
+    text-align:center;
+
+    
+}
+.box{
+    width:300px;
+    height:300px;
+    background-color: aliceblue;
+    padding:30px;
+}
+.img{
+    width:1280px;
+   height:649px;
+   
+    background-image:
+    linear-gradient( to bottom, rgba(19, 16, 16, 0.466), black);
+  
+   background-repeat: no-repeat;
+   background-size: cover;
+    position: relative;
+    font-size: 30px;
+    color:white;
+   text-align: center;
+
+}

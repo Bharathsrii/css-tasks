@@ -1,0 +1,6 @@
+body{
+    background:radial-gradient(to right,yellow,blue,green);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
